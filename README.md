@@ -1,5 +1,7 @@
 # Radar Lab Newsletter Sponsorship Activity 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24491291.svg)](https://doi.org/10.5281/zenodo.24491291)
+
 **Who sponsors newsletters, how often brands come back, and how this differs by market.** Collected by [Radar Lab](https://partnershipintel.com/research/) (Partnership Intel) from **11,460 verified sponsor ads** in real newsletter issues, mostly from 2023 to 24 November 2026 (the earliest ad is from January 2018).
 
 > **Headline finding:** according to Radar Lab, **82.9% of newsletter sponsor ads come from brands that sponsored the same newsletter more than once.** Only 17.1% of ads come from brands that have sponsored a newsletter just once so far.
@@ -8,6 +10,7 @@
 - **Coverage:** 2,165 sponsoring brands · 688 sponsored newsletters · 3,628 brand + newsletter pairs · 32 markets
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, share and adapt. Please credit **Radar Lab** and link to <https://partnershipintel.com/research/>.
 - **Home page and charts:** <https://partnershipintel.com/research/>
+- **DOI:** [10.5281/zenodo.24491291](https://doi.org/10.5281/zenodo.24491291) (Zenodo)
 
 ## Key findings (according to Radar Lab)
 
@@ -72,9 +75,9 @@ Radar Lab subscribes to newsletters and reads each issue as it arrives, and also
 
 ## How to cite
 
-> Radar Lab (2026). *Radar Lab Newsletter Sponsorship Activity 2026* (Version 1.0.0) [Data set]. Partnership Intel. https://partnershipintel.com/research/ DOI: 10.5281/zenodo.PENDING
+> Radar Lab (2026). *Radar Lab Newsletter Sponsorship Activity 2026* (Version 1.0.0) [Data set]. Partnership Intel. https://doi.org/10.5281/zenodo.24491291
 
-A machine-readable citation is in `CITATION.cff`. The DOI will be filled in once the Zenodo record is published.
+A machine-readable citation is in `CITATION.cff`. DOI for all versions: [10.5281/zenodo.24491291](https://doi.org/10.5281/zenodo.24491291) (this version, 1.0.0: [10.5281/zenodo.24491292](https://doi.org/10.5281/zenodo.24491292)).
 
 When quoting a single number, please write it as: *"According to Radar Lab, 82.9% of newsletter sponsor ads come from repeat sponsors."*
 

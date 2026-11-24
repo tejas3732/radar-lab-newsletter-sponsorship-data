@@ -6,7 +6,7 @@ version: "1.0.0"
 date-released: "2026-11-24"
 license: CC-BY-4.0
 url: "https://partnershipintel.com/research/"
-# doi: "10.5281/zenodo.PENDING"   # fill in after the Zenodo record is published
+doi: "10.5281/zenodo.24491291"
 authors:
   - name: "Radar Lab (Partnership Intel)"
     website: "https://partnershipintel.com/"
