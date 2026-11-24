@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit Radar Lab (partnershipintel.com)."
+type: dataset
+title: "Radar Lab Newsletter Sponsorship Activity 2026"
+version: "1.0.0"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://partnershipintel.com/research/"
+# doi: "10.5281/zenodo.PENDING"   # fill in after the Zenodo record is published
+authors:
+  - name: "Radar Lab (Partnership Intel)"
+    website: "https://partnershipintel.com/"
+    email: "hello@partnershipintel.com"
+abstract: >-
+  Aggregated statistics on newsletter sponsorship from 11,460 verified sponsor ads
+  recorded by Radar Lab in real newsletter issues (mostly 2023 to 24 November 2026):
+  2,165 sponsoring brands, 688 sponsored newsletters and 3,628 brand + newsletter
+  pairs across 32 markets. According to Radar Lab, 82.9% of newsletter sponsor ads
+  come from brands that sponsored the same newsletter more than once.
+keywords:
+  - newsletter sponsorship
+  - newsletter advertising
+  - sponsor ads
+  - email marketing
+  - creator economy

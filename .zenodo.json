@@ -1,0 +1,18 @@
+{
+  "title": "Radar Lab Newsletter Sponsorship Activity 2026",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-24",
+  "description": "<p><strong>Who sponsors newsletters, how often brands come back, and how this differs by market.</strong> Collected by Radar Lab (Partnership Intel) from 11,460 verified sponsor ads in real newsletter issues, mostly 2023 to 24 November 2026: 2,165 sponsoring brands, 688 sponsored newsletters and 3,628 brand + newsletter pairs across 32 markets.</p><p>Headline finding: according to Radar Lab, 82.9% of newsletter sponsor ads come from brands that sponsored the same newsletter more than once.</p><p>Seven small CSV files with grouped totals only (no newsletter-level rows). Counts ads, not spend or results. Coverage grows every month, so this version has no month-by-month series. Full definitions and limitations are in README.md.</p><p>Home page, charts and updates: <a href=\"https://partnershipintel.com/research/\">https://partnershipintel.com/research/</a></p>",
+  "creators": [
+    { "name": "Radar Lab (Partnership Intel)" }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["newsletter sponsorship", "newsletter advertising", "sponsor ads", "email marketing", "creator economy", "advertising statistics"],
+  "related_identifiers": [
+    { "identifier": "https://partnershipintel.com/research/", "relation": "isDocumentedBy", "resource_type": "publication-other" }
+  ],
+  "language": "eng",
+  "notes": "Refreshed quarterly. Questions or corrections: hello@partnershipintel.com"
+}

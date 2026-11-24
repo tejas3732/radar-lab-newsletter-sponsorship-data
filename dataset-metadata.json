@@ -1,0 +1,18 @@
+{
+  "title": "Radar Lab Newsletter Sponsorship Activity 2026",
+  "id": "YOUR-KAGGLE-USERNAME/newsletter-sponsorship-activity",
+  "subtitle": "11,460 verified newsletter sponsor ads: repeat rates, brand reach, markets",
+  "description": "See README.md. Collected by Radar Lab (partnershipintel.com). According to Radar Lab, 82.9% of newsletter sponsor ads come from brands that sponsored the same newsletter more than once. Home page and charts: https://partnershipintel.com/research/",
+  "isPrivate": true,
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": ["marketing", "advertising", "email and messaging", "business"],
+  "resources": [
+    { "path": "data/headline_stats.csv", "description": "Headline numbers, each with a plain definition" },
+    { "path": "data/markets.csv", "description": "Newsletters, brands, ads and repeat rates by market" },
+    { "path": "data/repeat_frequency.csv", "description": "Pairs and ads by how many ads a brand ran in the same newsletter" },
+    { "path": "data/brand_reach.csv", "description": "Brands and ads by how many newsletters a brand sponsored" },
+    { "path": "data/newsletter_sponsor_count.csv", "description": "Newsletters by how many different brands sponsored them" },
+    { "path": "data/repeat_gap.csv", "description": "Repeat pairs by longest gap in days between ads" },
+    { "path": "data/top_sponsors.csv", "description": "The 10 brands seen in the most newsletters" }
+  ]
+}
