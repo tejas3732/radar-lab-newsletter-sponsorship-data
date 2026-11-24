@@ -1,34 +1,3 @@
----
-pretty_name: Radar Lab Newsletter Sponsorship Activity 2026
-license: cc-by-4.0
-language:
-  - en
-size_categories:
-  - n<1K
-tags:
-  - newsletters
-  - sponsorship
-  - advertising
-  - email-marketing
-  - creator-economy
-  - marketing
-configs:
-  - config_name: markets
-    data_files: data/markets.csv
-  - config_name: headline_stats
-    data_files: data/headline_stats.csv
-  - config_name: repeat_frequency
-    data_files: data/repeat_frequency.csv
-  - config_name: brand_reach
-    data_files: data/brand_reach.csv
-  - config_name: newsletter_sponsor_count
-    data_files: data/newsletter_sponsor_count.csv
-  - config_name: repeat_gap
-    data_files: data/repeat_gap.csv
-  - config_name: top_sponsors
-    data_files: data/top_sponsors.csv
----
-
 # Radar Lab Newsletter Sponsorship Activity 2026
 
 **Who sponsors newsletters, how often brands come back, and how this differs by market.** Collected by [Radar Lab](https://partnershipintel.com/research/) (Partnership Intel) from **11,460 verified sponsor ads** in real newsletter issues, mostly from 2023 to 24 November 2026 (the earliest ad is from January 2018).
